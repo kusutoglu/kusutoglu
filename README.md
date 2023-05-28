@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Kusutoğlu</h1>
-<h3 align="center">A passionate ICT Teacher from Turkiye</h3>
+<h3 align="center">A passionate Software Developer & ICT Teacher from Turkiye</h3>
 
 - 🔭 I’m currently working on **Master's Thesis**
 - 📚 I'm currently Management Information Systems master student at Bandırma 17 Eylül University.
